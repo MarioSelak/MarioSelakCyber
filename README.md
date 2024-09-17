@@ -1,5 +1,8 @@
 <h1>Hi, I'm Mario!
 <h2>👨‍💻Cyber Security Projects:</h2>
+- [Azure Sentinel]- (https://github.com/MarioSelak/AzureSentinel)
+
+
 
 
 <h2>📺 Certifications
